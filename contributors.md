@@ -1,9 +1,9 @@
 Contributors
 ------------
 
-
 - Robert Clément
 - Jean-François Gonzalez
+- Aaron Paul
 - Clément Robert
 - Timothée David--Cléris
 - Remi Zerna
